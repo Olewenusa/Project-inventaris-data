@@ -1,0 +1,61 @@
+// {
+//   "version": "0.2.0",
+//   "configurations": [
+//     {
+//       "name": "bilangan_prima",
+//       "cwd": "tugascodedart\\bilangan_prima",
+//       "request": "launch",
+//       "type": "dart"
+//     },
+//     {
+//       "name": "dart_dasar_2",
+//       "cwd": "tugascodedart\\bilangan_prima\\dart_dasar_2",
+//       "request": "launch",
+//       "type": "dart"
+//     },
+//     {
+//       "name": "belajar_dart_dasar",
+//       "cwd": "Users\\rizky\\belajar_dart_dasar",
+//       "request": "launch",
+//       "type": "dart"
+//     },
+//     {
+//       "name": "js_runtime",
+//       "cwd": "dart-sdk\\lib\\_internal\\js_runtime",
+//       "request": "launch",
+//       "type": "dart"
+//     },
+//     {
+//       "name": "sdk_library_metadata",
+//       "cwd": "dart-sdk\\lib\\_internal\\sdk_library_metadata",
+//       "request": "launch",
+//       "type": "dart"
+//     },
+//     {
+//       "name": "dart_application_1",
+//       "cwd": "tugascodedart\\bilangan_prima\\dart_dasar_2\\dart_application_1",
+//       "request": "launch",
+//       "type": "dart"
+//     },
+//     {
+//       "name": "C/C++ Runner: Debug Session",
+//       "type": "cppdbg",
+//       "request": "launch",
+//       "args": [],
+//       "stopAtEntry": false,
+//       "externalConsole": true,
+//       "cwd": "c:/Users/Potato/Documents/TUGAS/KODINGAN/FLUTTER/utp_kelompok2_pbo/bin",
+//       "program": "c:/Users/Potato/Documents/TUGAS/KODINGAN/FLUTTER/utp_kelompok2_pbo/bin/build/Debug/outDebug",
+//       "MIMode": "gdb",
+//       "miDebuggerPath": "gdb",
+//       "setupCommands": [
+//         {
+//           "description": "Enable pretty-printing for gdb",
+//           "text": "-enable-pretty-printing",
+//           "ignoreFailures": true
+//         }
+      
+//   ]
+// }
+//   ]
+// }
